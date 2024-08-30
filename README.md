@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**henlars/henlars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who am I?**
 
-Here are some ideas to get you started:
+* 🖥️ Discovered coding during my time as a professional online poker player.
+* 🔭 Currently working on a web application to showcase youth soccer tournaments in Sweden.
+* 🌱 Learning Python and expanding my skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Looking for**
+
+🙋‍♂️ Open to job opportunities! If you're hiring, let's chat!
+
+**Contact**
+
+📫 How to reach me: henriklarssonmail@gmail.com
+
